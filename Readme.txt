@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+this template!
+im just remake for learning
+
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
